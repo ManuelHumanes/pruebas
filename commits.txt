@@ -1,0 +1,17 @@
+commit dd2a2b013ffb70fbbb0dcb52452b57ee24b43d13
+Author: Manuel <manuel.humanes@campusfp.es>
+Date:   Fri Apr 16 10:56:03 2021 +0200
+
+    tercera version, todos los datos del mismo tamaño
+
+commit 9577727106cd156988ca4c7b34fcb63bb547be36
+Author: Manuel <manuel.humanes@campusfp.es>
+Date:   Fri Apr 16 10:48:54 2021 +0200
+
+    Segunda versión con 4 polos
+
+commit cdaf0e6325d7815c91bb73d2aabf72d243d2dd8b
+Author: Manuel <manuel.humanes@campusfp.es>
+Date:   Fri Apr 16 10:01:43 2021 +0200
+
+    Primera version de mi web
